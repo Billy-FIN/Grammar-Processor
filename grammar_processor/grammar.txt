@@ -1,0 +1,14 @@
+<s>::=<!>| <nv> | <num> <nv> <prep> <n>
+<!>::=<h> <adj> | <h> <adj> <a> <n> <be>
+<nv>::=<n> <be> <vwing>|<n> <vwoing>
+<v>::=<vwing>|<vwoing>
+<prep>::=with|at|in|with|towards|on|for|by|about|under
+<vwing>::= coming|working|killing|becoming
+<vwoing>::=go|come|do|see|work|feel|speak|listen|look|agree|arrive|ask|kill|become
+<num>::=two|three|ten|fifty
+<con>::=and|or|that|but 
+<adj>::=big|new|old|easy|difficult|nice|beautiful|clean|favourite|important|free
+<be>::=are
+<n>::=books|classes|schools|families|girls|farms|students|papers|computers
+<h>::=how
+<a>::=the

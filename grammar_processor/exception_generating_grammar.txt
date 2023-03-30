@@ -1,0 +1,10 @@
+<sen>::= <s> <v>|<s> <v> <p>|<s> <v> <o>
+<s>::= <att> <n>|<n> 
+<v>::= <v>|<adv> <v>
+<o>::= <n>|<com> <n>
+<p>::= nice|ridiculous|soon|friendly|sick|white|president|damp|large
+<att>::=pale|gorgeous
+<adv>::=towards|fully|never|very|seldom
+<com>::=beautiful|awful
+<n>::=man|Chicago|table|happiness|justice
+<v>::=agree|have|happen|shout|shake|twist|vomit|rise|party
